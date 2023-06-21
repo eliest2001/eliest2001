@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>Full Stack Web App (JS, Flask)</b>
 
-  - [EFT item tracker](https://github.com/joshmadakor1/github.com/eliest2001/myTarkovWeb)
+  - [EFT item tracker](https://github.com/eliest2001/myTarkovWeb)
   
 <b>Smart Contract (Solidity, Hardhat)</b>
 
