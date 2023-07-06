@@ -14,6 +14,10 @@
   - [Advent of Code 2022](https://github.com/eliest2001/Advent-of-Code-2022)
   - [Advent of Code 2020](https://github.com/eliest2001/Advent-of-Code-2020)
 
+<b> Coin system for a discord server</b>
+  - [AstryCoins](https://github.com/eliest2001/CoinsAstry)
+  
+
 
 <h2> 🤳 Connect with me:</h2>
 
