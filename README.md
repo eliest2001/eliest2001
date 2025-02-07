@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elias! <br/><a href="https://github.com/eliest2001">Junior Sofware Engineer</a></h1>
+<h1>Hi, I'm Elias! <br/><a href="https://github.com/eliest2001">Backend Developer/Data Scientist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
